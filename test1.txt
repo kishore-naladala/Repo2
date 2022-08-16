@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6E83-A13F
+
+ Directory of C:\Users\kisho\OneDrive\Desktop\MyProject
+
+08/15/2022  09:40 PM    <DIR>          .
+08/15/2022  09:33 PM    <DIR>          ..
+08/15/2022  09:39 PM    <DIR>          .git
+08/15/2022  09:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  898,680,471,552 bytes free
